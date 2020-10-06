@@ -7,5 +7,11 @@ import { Component } from '@angular/core';
 })
 export class CentroComponent {
 
+  obterClassesCorpo(){
+
+    return ['corpo'];
+
+  }
+  
 
 }

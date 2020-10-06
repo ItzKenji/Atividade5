@@ -1,4 +1,4 @@
-#corpo{
+.corpo{
  
     flex: 1 0 auto;
     background-color: rgb(207, 117, 32);
@@ -6,12 +6,6 @@
  
  }
  
- .marginpg{
- 
-    margin-left: 20%;
-    margin-right: 20%;
- 
- }
  
  #imgTL{
  
